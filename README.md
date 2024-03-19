@@ -1,2 +1,2 @@
 # test-app-1
-Testing a bunch of code
+This app shall be used to test things. 
